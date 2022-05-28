@@ -1,0 +1,241 @@
+* {
+    font-family: 'Inter', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background: #353238;
+}
+
+/*navbar*/
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 5px;
+    flex-direction: row;
+}
+
+.navbar-brand > p {
+    font-size: 1rem;
+    height: 25px;
+    letter-spacing: 5px;
+}
+
+.navbar-dark .navbar-brand, .navbar-dark .navbar-toggler, .navbar-dark .navbar-nav .nav-link, h1 {
+    color: #C1B4AE;
+}
+
+.nav-link {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#nav-list a {
+    text-align: center;
+}
+
+#nav-list a:hover {
+    background: #C1B4AE;
+    color: #353238;
+    border-radius: 5px;
+}
+
+/*carousel*/
+.carousel-caption {
+    height: 100%;
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.carousel-item-img {
+    position: relative;
+}
+
+.carousel-item-img:after {
+    content: '';
+    position: absolute;
+    width: 100%; height:100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.8);
+    opacity: 1;
+}
+
+.carousel-caption > h5 {
+    font-size: 7rem;
+    color: transparent;
+    -webkit-background-clip: text;
+    font-weight: 600;
+    position: absolute;
+    background-image: linear-gradient(90deg, rgba(53,50,56,1) 0%, rgba(193,180,174,1) 35%, rgba(146,20,12,1) 100%);
+    background-size: 200%;
+    background-position: -200%;
+    top: 25%;
+    animation: animated-gradient 4s infinite alternate-reverse;
+    /*background-image: repeating-radial-gradient(circle farthest-side at 5px 10px, #C1B4AE 10%, #353238 30%, #BE5A38);*/
+}
+
+.carousel-caption > button {
+    position: absolute;
+    top: 65%;
+    background-color: rgb(117, 12, 7);
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 2%;
+    color: rgba(193,180,174,1);
+}
+
+@keyframes animated-gradient{
+    to {
+        background-position: 200%;
+    }
+}
+
+.carousel-caption > p {
+    position: absolute;
+    top: 45%;
+    font-size: 1.2rem;
+    color: #C1B4AE;
+    text-align: left;
+    line-height: 35px;
+}
+
+/* film sections */
+.section-header {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.new-carousel {
+    padding: 0 20px;
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    overflow: auto;
+}
+
+.films-carousel {
+    padding: 0 20px;
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    overflow: auto;
+}
+
+.serials-carousel {
+    padding: 0 20px;
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    overflow: auto;
+}
+
+.card-img {
+    border: none;
+    border-radius: 25px;
+}
+
+.new-carousel::-webkit-scrollbar {
+    display: none;
+}
+
+.card {
+    border-radius: 25px;
+    border: none;
+    min-width: 40%;
+    height: 300px;
+    overflow: hidden;
+}
+
+.card-image {
+    object-fit: contain;
+}
+
+.card:hover .card-img-overlay {
+    cursor: pointer;
+    transition: 1s;
+    opacity: 1;
+}
+
+.card-img-overlay {
+    border-radius: 25px;
+    background: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    padding: 25px;
+}
+
+h1 {
+    padding: 20px;
+}
+
+footer {
+    padding: 20px;
+    color:#6c757d;
+}
+
+
+@media (min-width: 576px) and (max-width: 768px) {
+    .carousel-caption > h5 {
+        font-size: 1.5rem;
+        top: 30%;
+    }
+
+    .carousel-caption > button {
+        top: 80%;
+        padding: 8px 15px;
+        font-size: 0.7rem;
+    }
+
+    .carousel-caption > p {
+        font-size: 0.7rem;
+        line-height: 20px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .carousel-caption > h5 {
+        font-size: 3rem;
+        top: 25%;
+    }
+    .carousel-caption > button {
+        top: 80%;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .carousel-caption > h5 {
+        font-size: 3rem;
+        top: 25%;
+    }
+    .carousel-caption > button {
+        top: 80%;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1400px) {
+    .carousel-caption > h5 {
+        font-size: 4rem;
+        top: 25%;
+    }
+    .carousel-caption > button {
+        top: 75%;
+    }
+}
+
+@media (min-width: 1400px) {
+
+}
+
+
+
+
+
+
