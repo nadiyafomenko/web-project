@@ -5,6 +5,8 @@
 
 body {
     background: #353238;
+    padding: 0;
+    margin: 0;
 }
 
 /*navbar*/
@@ -14,6 +16,10 @@ body {
     justify-content: center;
     column-gap: 5px;
     flex-direction: row;
+}
+
+.custom-navbar {
+    background-color: #35323890;
 }
 
 .navbar-brand > p {
@@ -158,6 +164,7 @@ body {
 .card-img {
     border: none;
     border-radius: 25px;
+    object-fit: cover;
 }
 
 .new-carousel::-webkit-scrollbar {
@@ -171,10 +178,6 @@ body {
     height: fit-content;
     /*height: 300px;*/
     overflow: hidden;
-}
-
-.card-image {
-    object-fit: contain;
 }
 
 .card:hover .card-img-overlay {
