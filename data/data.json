@@ -1,80 +1,152 @@
 [
   {
     "id": 1,
-    "img": "https://picsum.photos/200/300",
-    "title": "Film 1",
-    "subtitle": "Film 1"
+    "img": "https://premierakino.com.ua/wp-content/uploads/2022/01/%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%BE%D1%80%D0%B1%D1%96%D1%83%D1%81%D0%B0-400x650.jpg",
+    "title": "МОРБІУС (2022)",
+    "subtitle": "Екшн, Пригоди, Драма, Трилер, Жахи, Фантастика, Фентезі"
   },
   {
     "id": 1,
-    "img": "https://picsum.photos/200/300",
-    "title": "Film 1",
-    "subtitle": "Film 1"
+    "img": "https://premierakino.com.ua/wp-content/uploads/2022/05/12_SV_DomTeaser_1Sht_UKR-400x650.jpg",
+    "title": "ДОКТОР СТРЕНДЖ У МУЛЬТИВСЕСВІТІ БОЖЕВІЛЛЯ (2022)",
+    "subtitle": "Екшн, Пригоди"
   },
   {
     "id": 1,
-    "img": "https://picsum.photos/200/300",
-    "title": "Film 1",
-    "subtitle": "Film 1"
+    "img": "https://premierakino.com.ua/wp-content/uploads/2022/05/UA_ELVIS_Triptych_Series_70s_VERT_2764x4096-400x650.jpg",
+    "title": "ЕЛВІС (2022)",
+    "subtitle": "Біографія, Музичний, Драма"
   },
   {
     "id": 1,
-    "img": "https://picsum.photos/200/300",
-    "title": "Film 1",
-    "subtitle": "Film 1"
+    "img": "https://premierakino.com.ua/wp-content/uploads/2022/05/23wdslyumemory-400x650.png",
+    "title": "ФЛЕШБЕК (2022)",
+    "subtitle": "Трилер, Екшн, Кримінал"
   },
   {
     "id": 1,
-    "img": "https://picsum.photos/200/300",
-    "title": "Film 1",
-    "subtitle": "Film 1"
+    "img": "https://premierakino.com.ua/wp-content/uploads/2022/02/UA_UKRAINE_THE_BATMAN_VERT_CLOSEUP_MAIN_2764x4096_INTL-400x650.jpg",
+    "title": "БЕТМЕН (2022)",
+    "subtitle": "Екшн, Пригоди"
   },
   {
     "id": 1,
-    "img": "https://picsum.photos/200/300",
-    "title": "Film 1",
-    "subtitle": "Film 1"
+    "img": "http://t0.gstatic.com/images?q=tbn:ANd9GcRocuZ89ZIPM9pMUpV92hCqf7TgrlfCcpbrLoxSTemyovZwx8ru",
+    "title": "ТЕМНИЙ ЛИЦАР (2008)",
+    "subtitle": "Екшн, Драма, Кримінал, Трилер"
   },
   {
     "id": 1,
-    "img": "https://picsum.photos/200/300",
-    "title": "Film 1",
-    "subtitle": "Film 1"
+    "img": "https://cdn11.bigcommerce.com/s-ydriczk/images/stencil/1280x1280/products/82360/91855/THE-LORD-OF-THE-RINGS-THE-RETURN-OF-THE-KING-DS-ADV-Style-A-2003-ORIGINAL-CINEMA-POSTER__10176.1543239944.jpg?c=2",
+    "title": "ВОЛОДАР ПЕРСНІВ: ПОВЕРНЕННЯ КОРОЛЯ (2003)",
+    "subtitle": "Екшн, Пригоди, Драма, Фентезі"
   },
   {
     "id": 1,
-    "img": "https://picsum.photos/200/300",
-    "title": "Film 1",
-    "subtitle": "Film 1"
+    "img": "https://mr.comingsoon.it/imgdb/locandine/big/47397.jpg",
+    "title": "ПОЧАТОК (2010)",
+    "subtitle": "Екшн, Пригоди, Трилер, Фантастика"
   },
   {
     "id": 1,
-    "img": "https://picsum.photos/200/300",
-    "title": "Film 1",
-    "subtitle": "Film 1"
+    "img": "https://i.pinimg.com/736x/f0/24/da/f024da5dee5f5b90f6d437bc76e13317.jpg",
+    "title": "ПРЕСТИЖ (2006)",
+    "subtitle": "Детектив, Драма, Трилер, Фантастика"
   },
   {
     "id": 1,
-    "img": "https://picsum.photos/200/300",
-    "title": "Film 1",
-    "subtitle": "Film 1"
+    "img": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "title": "ОСТРІВ ПРОКЛЯТИХ (2010)",
+    "subtitle": "Детектив, Драма, Трилер"
   },
   {
     "id": 1,
-    "img": "https://picsum.photos/200/300",
-    "title": "Film 1",
-    "subtitle": "Film 1"
+    "img": "https://m.media-amazon.com/images/M/MV5BZmRkNzVlODYtMjdhYy00OTVkLWJiYzItNGE0ZTFmYWE2NjM2XkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_.jpg",
+    "title": "ІСТОРІЯ ПРО НАС (2017)",
+    "subtitle": "Історичний, Документальний"
   },
   {
     "id": 1,
-    "img": "https://picsum.photos/200/300",
-    "title": "Film 1",
-    "subtitle": "Film 1"
+    "img": "https://m.media-amazon.com/images/I/81RjtiLoicL._SL1500_.jpg",
+    "title": "ЧОРНОБИЛЬ (2019)",
+    "subtitle": "Драма, Документальний"
   },
   {
     "id": 1,
-    "img": "https://picsum.photos/200/300",
-    "title": "Film 1",
-    "subtitle": "Film 1"
+    "img": "https://m.media-amazon.com/images/I/61+5mMtkPbL._AC_SY606_.jpg",
+    "title": "ГРА ПРЕСТОЛІВ (2011)",
+    "subtitle": "Драма, Пригоди"
+  },
+  {
+    "id": 1,
+    "img": "https://m.media-amazon.com/images/I/51fWOBx3agL._AC_.jpg",
+    "title": "ПУСТИТИСЯ БЕРЕГА (2008)",
+    "subtitle": "Драма, Трилер"
+  },
+  {
+    "id": 1,
+    "img": "https://m.media-amazon.com/images/I/71BAHYr16lS._SL1500_.jpg",
+    "title": "ШЕРЛОК (2010)",
+    "subtitle": "Детектив, Драма, Кримінал"
+  },
+  {
+    "id": 1,
+    "img": "https://m.media-amazon.com/images/I/81r6asS5SIL._SL1500_.jpg",
+    "title": "Том і Джеррі: Політ на Марс",
+    "subtitle": "2005"
+  },
+  {
+    "id": 1,
+    "img": "https://www.themoviedb.org/t/p/original/9l6Cm4sBm1gzA94HuULtJFaFnSd.jpg",
+    "title": "Скубі-Ду під куполом цирку",
+    "subtitle": "2012"
+  },
+  {
+    "id": 1,
+    "img": "https://www.themoviedb.org/t/p/original/dZ958HnW3JO2pEZeedjmoZCV8Rn.jpg",
+    "title": "Балто 2. Шлях вовка",
+    "subtitle": "2002"
+  },
+  {
+    "id": 1,
+    "img": "https://m.media-amazon.com/images/M/MV5BYWFkOGFlZGItZTk2YS00NDJhLTk0MmQtY2U4OGRhODE3ZGM3XkEyXkFqcGdeQXVyNjk0ODAxMTk@._V1_.jpg",
+    "title": "Вікінг Вік",
+    "subtitle": "2019"
+  },
+  {
+    "id": 1,
+    "img": "https://m.media-amazon.com/images/I/61AJch2gsjL._AC_SL1500_.jpg",
+    "title": "Астробой",
+    "subtitle": "2009"
+  },
+  {
+    "id": 1,
+    "img": "https://www.themoviedb.org/t/p/original/PhUYIGUUk1RzWq2Aw3TqH65McE.jpg",
+    "title": "Шоу Елен Дедженерес",
+    "subtitle": "Ток-шоу"
+  },
+  {
+    "id": 1,
+    "img": "https://akns-images.eonline.com/eol_images/Entire_Site/202088/rs_800x1200-200908155829-KUWTK_S11_KeyArt.jpg?fit=around%7C800:1200&output-quality=90&crop=800:1200;center,top",
+    "title": "The Kardashians",
+    "subtitle": "Реаліті"
+  },
+  {
+    "id": 1,
+    "img": "https://citaty.info/files/posters/195681.jpg",
+    "title": "Хто зверху?",
+    "subtitle": "Телегра"
+  },
+  {
+    "id": 1,
+    "img": "https://www.themoviedb.org/t/p/original/if7ECoH4xaYw5S8gomNIEmtwTxP.jpg",
+    "title": "Нічне шоу з Джиммі Феллоном",
+    "subtitle": "Ток-шоу"
+  },
+  {
+    "id": 1,
+    "img": "https://m.media-amazon.com/images/M/MV5BNjE5MTg3MDUxNl5BMl5BanBnXkFtZTgwNTY5OTE5MDE@._V1_UY1200_CR93,0,630,1200_AL_.jpg",
+    "title": "Gator Boys",
+    "subtitle": "Серіал"
   }
 ]

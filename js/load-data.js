@@ -47,6 +47,29 @@ document.addEventListener('DOMContentLoaded', function (event){
               </div>
             </div>`
         })
+
+        /*chunk4.forEach(film => {
+            console.log(film)
+            .innerHTML += `
+             <div class="card bg-dark text-white">
+              <img class="card-img" src="${film.img}" alt="Card image">
+              <div class="card-img-overlay">
+                <h5 class="card-title">${film.title}</h5>
+                <p class="card-text">${film.subtitle}</p>
+              </div>
+            </div>`
+        })
+        chunk5.forEach(film => {
+            console.log(film)
+            serials.innerHTML += `
+             <div class="card bg-dark text-white">
+              <img class="card-img" src="${film.img}" alt="Card image">
+              <div class="card-img-overlay">
+                <h5 class="card-title">${film.title}</h5>
+                <p class="card-text">${film.subtitle}</p>
+              </div>
+            </div>`
+        })*/
     })
 
 })
