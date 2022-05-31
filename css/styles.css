@@ -111,6 +111,10 @@ body {
     line-height: 35px;
 }
 
+#greeting {
+    color: #C1B4AE;
+    margin-left: 30px;
+}
 /* film sections */
 .section-header {
     margin-top: 20px;
@@ -167,16 +171,11 @@ body {
     object-fit: cover;
 }
 
-.new-carousel::-webkit-scrollbar {
-   /* display: none;*/
-}
-
 .card {
     border-radius: 25px;
     border: none;
     min-width: 25%;
     height: fit-content;
-    /*height: 300px;*/
     overflow: hidden;
 }
 
@@ -197,15 +196,30 @@ h1 {
     padding: 20px;
 }
 
-footer {
-    padding: 20px;
-    color:#6c757d;
-}
-
 .navbar-collapse.show {
     background-color:#353238 ;
 }
 
+footer {
+    margin-top: 100px !important;
+    padding: 20px;
+    color: #b2b2b2;
+    background-color: #b2b2b230;
+    box-shadow: rgba(239, 239, 239, 0.2) 0 8px 24px;
+}
+
+.footer-link {
+    color: #b2b2b2;
+    font-weight: 400;
+}
+
+.footer-link:hover {
+    color: rgb(117, 12, 7);
+    text-decoration: underline;
+}
+
+
+/* media */
 @media (max-width: 575px){
     .carousel-caption > h5 {
         font-size: 1.0rem;
@@ -260,6 +274,7 @@ footer {
         font-size: 3rem;
         top: 25%;
     }
+
     .carousel-caption > button {
         top: 80%;
     }
@@ -270,6 +285,7 @@ footer {
         font-size: 3rem;
         top: 25%;
     }
+
     .carousel-caption > button {
         top: 80%;
     }
@@ -280,13 +296,10 @@ footer {
         font-size: 4rem;
         top: 25%;
     }
+
     .carousel-caption > button {
         top: 75%;
     }
-}
-
-@media (min-width: 1400px) {
-
 }
 
 

@@ -1,7 +1,7 @@
-document.addEventListener('DOMContentLoaded', function (event){
+document.addEventListener('DOMContentLoaded',  () => {
     let response = {}
 
-    ajaxUtils.sendGetRequest('data/data.json', function (request) {
+    ajaxUtils.sendGetRequest('data/data.json',  (request) => {
         response = JSON.parse(request.responseText);
 
         const news = document.querySelector('.new-carousel');
@@ -75,4 +75,8 @@ document.addEventListener('DOMContentLoaded', function (event){
         })
     })
 
+    const name = prompt('Як до вас можна звертатись?', '')
+    const greeting = document.querySelector('#greeting');
+
+    greeting.innerHTML = `Hello, ${name}!`
 })
