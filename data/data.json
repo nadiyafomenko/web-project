@@ -31,31 +31,31 @@
   },
   {
     "id": 1,
-    "img": "http://t0.gstatic.com/images?q=tbn:ANd9GcRocuZ89ZIPM9pMUpV92hCqf7TgrlfCcpbrLoxSTemyovZwx8ru",
+    "img": "/media/films/1.jpg",
     "title": "ТЕМНИЙ ЛИЦАР (2008)",
     "subtitle": "Екшн, Драма, Кримінал, Трилер"
   },
   {
     "id": 1,
-    "img": "https://cdn11.bigcommerce.com/s-ydriczk/images/stencil/1280x1280/products/82360/91855/THE-LORD-OF-THE-RINGS-THE-RETURN-OF-THE-KING-DS-ADV-Style-A-2003-ORIGINAL-CINEMA-POSTER__10176.1543239944.jpg?c=2",
+    "img": "/media/films/2.jpg",
     "title": "ВОЛОДАР ПЕРСНІВ: ПОВЕРНЕННЯ КОРОЛЯ (2003)",
     "subtitle": "Екшн, Пригоди, Драма, Фентезі"
   },
   {
     "id": 1,
-    "img": "https://mr.comingsoon.it/imgdb/locandine/big/47397.jpg",
+    "img": "/media/films/3.jpg",
     "title": "ПОЧАТОК (2010)",
     "subtitle": "Екшн, Пригоди, Трилер, Фантастика"
   },
   {
     "id": 1,
-    "img": "https://i.pinimg.com/736x/f0/24/da/f024da5dee5f5b90f6d437bc76e13317.jpg",
+    "img": "/media/films/4.jpg",
     "title": "ПРЕСТИЖ (2006)",
     "subtitle": "Детектив, Драма, Трилер, Фантастика"
   },
   {
     "id": 1,
-    "img": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "img": "/media/films/5.jpg",
     "title": "ОСТРІВ ПРОКЛЯТИХ (2010)",
     "subtitle": "Детектив, Драма, Трилер"
   },
@@ -73,25 +73,25 @@
   },
   {
     "id": 1,
-    "img": "https://m.media-amazon.com/images/I/61+5mMtkPbL._AC_SY606_.jpg",
+    "img": "/media/series/3.jpg",
     "title": "ГРА ПРЕСТОЛІВ (2011)",
     "subtitle": "Драма, Пригоди"
   },
   {
     "id": 1,
-    "img": "https://m.media-amazon.com/images/I/51fWOBx3agL._AC_.jpg",
+    "img": "/media/series/4.jpg",
     "title": "ПУСТИТИСЯ БЕРЕГА (2008)",
     "subtitle": "Драма, Трилер"
   },
   {
     "id": 1,
-    "img": "https://m.media-amazon.com/images/I/71BAHYr16lS._SL1500_.jpg",
+    "img": "/media/series/5.jpg",
     "title": "ШЕРЛОК (2010)",
     "subtitle": "Детектив, Драма, Кримінал"
   },
   {
     "id": 1,
-    "img": "https://m.media-amazon.com/images/I/81r6asS5SIL._SL1500_.jpg",
+    "img": "/media/cartoons/1.jpg",
     "title": "Том і Джеррі: Політ на Марс",
     "subtitle": "2005"
   },
@@ -109,13 +109,13 @@
   },
   {
     "id": 1,
-    "img": "https://m.media-amazon.com/images/M/MV5BYWFkOGFlZGItZTk2YS00NDJhLTk0MmQtY2U4OGRhODE3ZGM3XkEyXkFqcGdeQXVyNjk0ODAxMTk@._V1_.jpg",
+    "img": "/media/cartoons/4.jpg",
     "title": "Вікінг Вік",
     "subtitle": "2019"
   },
   {
     "id": 1,
-    "img": "https://m.media-amazon.com/images/I/61AJch2gsjL._AC_SL1500_.jpg",
+    "img": "/media/cartoons/5.jpg",
     "title": "Астробой",
     "subtitle": "2009"
   },
@@ -133,19 +133,19 @@
   },
   {
     "id": 1,
-    "img": "https://citaty.info/files/posters/195681.jpg",
-    "title": "Хто зверху?",
-    "subtitle": "Телегра"
+    "img": "/media/shows/3.jpg",
+    "title": "Overhaulin'",
+    "subtitle": "Реаліті"
   },
   {
     "id": 1,
-    "img": "https://www.themoviedb.org/t/p/original/if7ECoH4xaYw5S8gomNIEmtwTxP.jpg",
+    "img": "/media/shows/4.jpg",
     "title": "Нічне шоу з Джиммі Феллоном",
     "subtitle": "Ток-шоу"
   },
   {
     "id": 1,
-    "img": "https://m.media-amazon.com/images/M/MV5BNjE5MTg3MDUxNl5BMl5BanBnXkFtZTgwNTY5OTE5MDE@._V1_UY1200_CR93,0,630,1200_AL_.jpg",
+    "img": "/media/shows/5.jpg",
     "title": "Gator Boys",
     "subtitle": "Серіал"
   }
